@@ -107,7 +107,7 @@ The program will start fetching and displaying weather data, updating every 5 se
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributing
 
